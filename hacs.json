@@ -1,0 +1,8 @@
+{
+    "name": "SolarMon Card",
+    "render_readme": true,
+    "filename": "solar-mon.js",
+    "content_in_root": false,
+    "domains": ["lovelace"],
+    "homeassistant": "2023.2.0"
+  }
